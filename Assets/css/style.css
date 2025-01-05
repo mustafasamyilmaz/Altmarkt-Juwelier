@@ -54,6 +54,22 @@ a:hover {
   color: var(--color-brand-light);
 }
 
+.whatsapp-link {
+  font-weight: bold;
+  color: var(--color-brand); /* Hellgold */
+  text-decoration: none;
+  padding: 5px;
+  border: 2px solid var(--color-brand); /* Rahmen in Hellgold */
+  border-radius: 5px;
+  display: inline-block;
+  transition: background-color 0.3s, color 0.3s; /* Für sanfte Farbänderung */
+}
+
+.whatsapp-link:hover {
+  background-color: var(--color-brand); /* Hintergrund wird Hellgold */
+  color: #000; /* Text wird Schwarz */
+}
+
 img {
   width: 100%;
 }
