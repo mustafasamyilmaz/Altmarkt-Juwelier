@@ -20,14 +20,44 @@
 </url>
 
 <url>
-<loc>https://goldundsilberhaus.com/zahngold</loc>
+<loc>https://goldundsilberhaus.com/zahngold-ankauf</loc>
 <priority>0.9</priority>
 <changefreq>monthly</changefreq>
 </url>
 
 <url>
-<loc>https://goldundsilberhaus.com/kontakt</loc>
+<loc>https://goldundsilberhaus.com/muenzen-ankauf</loc>
 <priority>0.8</priority>
+<changefreq>monthly</changefreq>
+</url>
+
+<url>
+<loc>https://goldundsilberhaus.com/silberbesteck-ankauf</loc>
+<priority>0.8</priority>
+<changefreq>monthly</changefreq>
+</url>
+
+<url>
+<loc>https://goldundsilberhaus.com/zinn-ankauf</loc>
+<priority>0.7</priority>
+<changefreq>monthly</changefreq>
+</url>
+
+<url>
+<loc>https://goldundsilberhaus.com/edelmetall-antiquitaeten</loc>
+<priority>0.7</priority>
+<changefreq>monthly</changefreq>
+</url>
+
+<url>
+<loc>https://goldundsilberhaus.com/uhren-batteriewechsel</loc>
+<priority>0.6</priority>
+<changefreq>yearly</changefreq>
+</url>
+
+<url>
+<loc>https://goldundsilberhaus.com/impressum</loc>
+<priority>0.3</priority>
 <changefreq>yearly</changefreq>
 </url>
 
