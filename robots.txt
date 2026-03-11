@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://goldundsilberhaus.com/sitemap.xml
+
+# Blockiere unnötige Systemseiten
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# Optional: interne Suchseiten blockieren
+Disallow: /?s=
